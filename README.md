@@ -8,10 +8,9 @@ You can download the .hex file of this project **compiled for watchX** from [her
 
 ## **License**
 
-This project has been released under the MIT License by it's developer.
+This project has not been licensed by it's developer yet.
 
 [1]: https://github.com/arduboychris
 [2]: https://github.com/arduboychris/Squario
 [3]: https://github.com/argeX-official/Game-Squario/blob/master/OLD_README.md
 [4]: https://github.com/argeX-official/Game-Squario/releases
-[5]: This project has not been licensed by it's developer yet.
