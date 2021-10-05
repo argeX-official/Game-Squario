@@ -10,8 +10,6 @@ You can download the .hex file of this project **compiled for watchX** from [her
 
 This project has been released under the MIT License by it's developer.
 
-The full document can be found in the [LICENSE][5] file.
-
 [1]: https://github.com/arduboychris
 [2]: https://github.com/arduboychris/Squario
 [3]: https://github.com/argeX-official/Game-Squario/blob/master/OLD_README.md
