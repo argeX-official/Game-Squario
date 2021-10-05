@@ -1,7 +1,5 @@
 ## **Squario**
 
-<img src="game.svg" width="100%"><br/>
-
 This project has been developed by [arduboychris][1] and forked directly from [ Squario][2].
 
 You can read the original README file from [here][3].
